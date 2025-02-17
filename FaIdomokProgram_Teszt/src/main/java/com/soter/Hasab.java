@@ -1,10 +1,9 @@
 package com.soter;
 
-public class Hasab {
+import com.soter.idomok.FaIdom;
+
+public class Hasab extends FaIdom {
     public Hasab(double i, double i1, double i2) {
     }
 
-    public short terfogat() {
-        return 0;
-    }
 }
